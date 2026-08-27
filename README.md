@@ -33,12 +33,7 @@ The project demonstrates how technology can be used to **simplify employee data 
 - Employee Data Organization
 
 ## 🛠️ Tools & Technologies
-
-- Python
 - SQL / Database
-- HTML
-- CSS
-- JavaScript
 - Data Management
 - CRUD Operations
 
